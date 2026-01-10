@@ -37,7 +37,7 @@ progress_bar() {
 }
 
 while true; do
-	# Green color
+	# Cyan Color
 	echo -e $CYAN 
 
 	# Print text "VitaGuard"
